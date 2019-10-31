@@ -44,7 +44,7 @@ if
 then
 clear
 echo "\033[31;1m"
-toilet "T-Sel"
+togog "T-Sel"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
